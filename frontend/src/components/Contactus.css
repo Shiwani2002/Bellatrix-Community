@@ -1,0 +1,56 @@
+.contactus-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    max-width: 1200px;
+  margin-top: 200px;
+  margin-left: 200px;
+    padding: 20px;
+    gap: 30px;
+  }
+  
+  .contactus-image img {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 10px;
+  }
+  
+  .contactus-content {
+    max-width: 600px;
+    text-align: left;
+  }
+  
+  .contactus-content h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #333;
+  }
+  
+  .contactus-content h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+  }
+  
+  .contactus-content p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  
+  @media (max-width: 768px) {
+    .contactus-container {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .contactus-image img {
+      max-width: 100%;
+    }
+  
+    .contactus-content {
+      text-align: center;
+    }
+  }
+  

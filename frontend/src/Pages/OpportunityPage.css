@@ -1,0 +1,95 @@
+.opportunity-page {
+    margin-top: 200px;
+    text-align: center;
+    padding: 30px;
+  }
+  
+  .opportunity-page h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .opportunity-page ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .opportunity-page li {
+    background: #f9f9f9;
+    padding: 15px;
+    margin: 10px auto;
+    width: 60%;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .opportunity-page a {
+    display: inline-block;
+    margin-top: 5px;
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  .opportunity-page a:hover {
+    text-decoration: underline;
+  }
+  
+  .hackathon-container {
+    text-align: center;
+    padding: 20px;
+   
+    margin-top: 200px;
+  }
+  
+  .hackathon-heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .resources-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .resource-box {
+    background: rgb(240, 237, 237);
+    padding: 15px;
+    width: 320px;
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .resource-box h3 {
+    font-size: 18px;
+    color: #3c7ec5;
+  }
+  
+  .resource-box p {
+    
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .resource-box a {
+    display: inline-block;
+    margin-top: 200px;
+    text-decoration: none;
+    background-color: #4e90d7;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 5px;
+  }
+  
+  .resource-box:hover {
+    transform: scale(1.05);
+  }
+  
