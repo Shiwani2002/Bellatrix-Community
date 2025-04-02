@@ -29,7 +29,7 @@ const AllMembers = () => {
       imageUrl: "/departments/Harshita.jpeg",
     },
     {
-      name: "Saumya",
+      name: "Saumya Singh",
       imageUrl: "/departments/Saumya.jpeg",
     },
     {
