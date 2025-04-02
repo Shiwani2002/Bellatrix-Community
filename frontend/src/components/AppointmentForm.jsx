@@ -19,11 +19,11 @@ const AppointmentForm = () => {
   const [hasVisited, setHasVisited] = useState(false);
 
   const departmentsArray = [
-    "Web Developer",
+    "Frontend Developer",
     "App Development",
-    "Cardiology",
-    "Neurology",
-    "Oncology",
+    "Software Developer",
+    "Machine Learning",
+    "Backend Developer",
     "Radiology",
     "Physical Therapy",
     "Dermatology",
