@@ -19,4 +19,3 @@ export const generateToken = (user, message, statusCode, res) => {
     });
 };
 
-//mongodb+srv://nehasharma:sudhakar@jobportal.ntzeg.mongodb.net/
