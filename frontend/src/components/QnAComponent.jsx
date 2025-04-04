@@ -16,7 +16,7 @@ const QnAComponent = () => {
 
     try {
       const response = await axios.post(
-        "https://bellatrix-community-vdnw.onrender.com//api/qna/get-answer",
+        "https://bellatrix-community-vdnw.onrender.com/api/qna/get-answer",
         { question: query },
         { headers: { "Content-Type": "application/json" } }
       );
