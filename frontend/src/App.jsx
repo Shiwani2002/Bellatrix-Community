@@ -18,6 +18,7 @@ import "react-toastify/dist/ReactToastify.css";
 import axios from "axios";
 import { Context } from "./main";
 import Login from "./Pages/Login";
+
 const App = () => {
   const { isAuthenticated, setIsAuthenticated, setUser } =
     useContext(Context);
@@ -61,6 +62,7 @@ const App = () => {
         <Footer />
         <ToastContainer position="top-center" />
       </Router>
+
     </>
   );
 };
