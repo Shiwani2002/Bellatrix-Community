@@ -24,10 +24,10 @@ const AppointmentForm = () => {
     "Software Developer",
     "Machine Learning",
     "Backend Developer",
-    "Radiology",
-    "Physical Therapy",
-    "Dermatology",
-    "ENT",
+    "Devops Developer",
+    "Cloud Computing",
+    "Testing Engineer",
+    "Business Development",
   ];
 
   const [doctors, setDoctors] = useState([]);
