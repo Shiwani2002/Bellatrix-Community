@@ -41,7 +41,7 @@ const AllMembers = () => {
       imageUrl: "/departments/Shreya.jpeg",
     },
     {
-      name: "Anshika",
+      name: "Anshika Srivastava",
       imageUrl: "/departments/Anshika.jpeg",
     },
     {
@@ -49,7 +49,7 @@ const AllMembers = () => {
       imageUrl: "/departments/Dot.jpeg",
     },
     {
-      name: "Kusum",
+      name: "Kusum ",
       imageUrl: "/departments/Kusum.jpeg",
     },
     {
