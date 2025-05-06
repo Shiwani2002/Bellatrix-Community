@@ -3,34 +3,34 @@ import "./OurStories.css"; // External CSS file for styling
 
 const stories = [
   {
-    name: "Neha Sharma",
-    position: "Web Developer",
+    name: "Divya Porwal",
+    position: "Software Developer at FlipCart",
+    image: "/about3.avif",
+    achievement:
+      "SDE @Flipkart | Ex SWE Intern @Cisco and @Siemens | 70k+ @LinkedIn | Winner- Techgig GeekGoddess | Finalist @Google Girl Hackathon 2023 | Gold Medalist@ICPC Algoqueen 2023 | Knight@Leetcode |Finalist ICPC Algoqueen 2024",
+  },
+  {
+    name: "Shivangi Yadav",
+    position: "Software Engineer",
+    image: "/about3.avif",
+    achievement:
+      "Guiding passionate individuals, especially women in tech, has not only allowed me to share knowledge but also learn and grow alongside them. Watching mentees transform their ideas into action and overcome challenges with confidence has been truly inspiring. This community fosters collaboration, innovation, and empowerment, and I’m proud to be part of a space that uplifts and celebrates growth at every step.",
+   
+   
+  },
+  {
+    name: "Urvija Singh",
+    position: "Software Developer",
+    image: "/about3.avif",
+    achievement:
+      "Guiding passionate individuals, especially women in tech, has not only allowed me to share knowledge but also learn and grow alongside them. Watching mentees transform their ideas into action and overcome challenges with confidence has been truly inspiring. This community fosters collaboration, innovation, and empowerment, and I’m proud to be part of a space that uplifts and celebrates growth at every step.",
+  },
+  {
+    name: "Nishu Gupta",
+    position: "Software Engineer",
     image: "/about3.avif",
     achievement:
       "Built the Bellatrix community platform, connecting women in tech worldwide. Organized multiple hackathons and networking events.",
-  },
-  {
-    name: "Aisha Khan",
-    position: "Software Engineer at Google",
-    image: "/about3.avif",
-    achievement:
-      "Secured a role at Google after participating in multiple coding competitions. Mentors aspiring developers globallly   t Google after participating in multiple coding competitions. Mentors aspiring developers globally.   t Google after participating in multiple coding competitions. Mentors aspiring developers globally.",
-   
-   
-  },
-  {
-    name: "Rohan Mehta",
-    position: "Data Scientist at Microsoft",
-    image: "/about3.avif",
-    achievement:
-      "Led an AI research project that helped optimize data processing, saving 30% in computation time.",
-  },
-  {
-    name: "Aisha Khan",
-    position: "Software Engineer at Google",
-    image: "/about3.avif",
-    achievement:
-      "Secured a role at Google after participating in multiple coding competitions. Mentors aspiring developers globallly   t Google after participating in multiple coding competitions. Mentors aspiring developers globally.   t Google after participating in multiple coding competitions. Mentors aspiring developers globally.",
    
    
   },
