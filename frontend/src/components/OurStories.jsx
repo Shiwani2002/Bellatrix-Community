@@ -34,15 +34,7 @@ const stories = [
    
    
   },
-  {
-    name: "Aisha Khan",
-    position: "Software Engineer at Google",
-    image: "/about3.avif",
-    achievement:
-      "Secured a role at Google after participating in multiple coding competitions. Mentors aspiring developers globallly   t Google after participating in multiple coding competitions. Mentors aspiring developers globally.   t Google after participating in multiple coding competitions. Mentors aspiring developers globally.",
-   
-   
-  },
+
 ];
 
 const OurStories = () => {
