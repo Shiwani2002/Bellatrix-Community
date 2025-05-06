@@ -72,15 +72,15 @@ const Footer = () => {
             </div>
             <div>
               <FaPhone />
-              <span>Shiwani Tiwari 9696294742</span>
+              <span>Swati Singh 76511834814</span>
             </div>
             <div>
               <FaPhone />
-              <span>Shiwani Tiwari 9696294742</span>
+              <span>Poorvi Gupta 9555923909</span>
             </div>
             <div>
               <FaPhone />
-              <span>Shiwani Tiwari 9696294742</span>
+              <span>Roopam Pandey 8787270896</span>
             </div>
             <div>
               <MdEmail />
