@@ -4,7 +4,7 @@ import "./OurStories.css"; // External CSS file for styling
 const stories = [
   {
     name: "Divya Porwal",
-    position: "Software Developer at FlipCart",
+    position: "Software Developer at Flipkart",
     image: "/about3.avif",
     achievement:
       "SDE @Flipkart | Ex SWE Intern @Cisco and @Siemens | 70k+ @LinkedIn | Winner- Techgig GeekGoddess | Finalist @Google Girl Hackathon 2023 | Gold Medalist@ICPC Algoqueen 2023 | Knight@Leetcode |Finalist ICPC Algoqueen 2024",
@@ -19,15 +19,14 @@ const stories = [
    
   },
   {
-    name: "Urvija Singh",
+    name: "Urvija Rai",
     position: "Software Developer",
     image: "/about3.avif",
     achievement:
-      "Guiding passionate individuals, especially women in tech, has not only allowed me to share knowledge but also learn and grow alongside them. Watching mentees transform their ideas into action and overcome challenges with confidence has been truly inspiring. This community fosters collaboration, innovation, and empowerment, and I’m proud to be part of a space that uplifts and celebrates growth at every step.",
-  },
+      "Competitive Programmer || Pupil @Codeforces || 1533(max) @Codechef"
   {
     name: "Nishu Gupta",
-    position: "Software Engineer",
+    position: CEO at Adins International",
     image: "/about3.avif",
     achievement:
       "Built the Bellatrix community platform, connecting women in tech worldwide. Organized multiple hackathons and networking events.",
