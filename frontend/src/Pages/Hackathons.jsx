@@ -3,30 +3,16 @@ import "./OpportunityPage.css"; // Common styling for all pages
 
 const resources = [
   {
-    name: "Hackathon Hub (Telegram)",
-    description: "Created by XYZ Community . yes we knor sbjdbs sdbhbd bc cdugbc dchdu dcus sgduy dbcushui",
-    link: "https://t.me/example"
+    name: "Hackathon Hub ",
+    description: "Created by unstop",
+    link: "https://unstop.com/"
   },
   {
-    name: "Daily Hackathons (WhatsApp)",
-    description: "Managed by ABC Group",
-    link: "https://chat.whatsapp.com/example"
+    name: "Hackathons Hub",
+    description: "Managed by GFG",
+    link: "https://www.geeksforgeeks.org/"
   },
-  {
-    name: "Hackathon Insights (YouTube)",
-    description: "By TechGeeks",
-    link: "https://www.youtube.com/c/example"
-  },
-  {
-    name: "Daily Hackathons (WhatsApp)",
-    description: "Managed by ABC Group",
-    link: "https://chat.whatsapp.com/example"
-  },
-  {
-    name: "Hackathon Insights (YouTube)",
-    description: "By TechGeeks",
-    link: "https://www.youtube.com/c/example"
-  }
+
 ];
 
 const Hackathon = () => {
