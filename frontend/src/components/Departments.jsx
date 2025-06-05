@@ -45,7 +45,7 @@ const Departments = () => {
       imageUrl: "/departments/Anshika.jpeg",
     },
     {
-      name: "Dot",
+      name: "Payal",
       imageUrl: "/departments/Dot.jpeg",
     },
     {
