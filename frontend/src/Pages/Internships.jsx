@@ -5,30 +5,26 @@ import "./OpportunityPage.css";
 
 const resources = [
   {
-    name: "Hackathon Hub (Telegram)",
-    description: "Created by XYZ Community . yes we knor sbjdbs sdbhbd bc cdugbc dchdu dcus sgduy dbcushui",
-    link: "https://t.me/example"
+   name: "Krishan Kumar (Telegram)",
+    description: "Managed by Krishan Kumar",
+    link: "https://t.me/jobs_and_internships_updates"
   },
   {
-    name: "Daily Hackathons (WhatsApp)",
-    description: "Managed by ABC Group",
-    link: "https://chat.whatsapp.com/example"
+    name: "Jobs Internships",
+    description: "Managed by jobs Internships",
+    link: "https://t.me/jobsinternshipswale"
   },
   {
-    name: "Hackathon Insights (YouTube)",
-    description: "By TechGeeks",
-    link: "https://www.youtube.com/c/example"
+    name: "Off campus",
+    description: "Managed by off campus phodenge",
+    link: "https://t.me/offcampus_phodenge"
   },
   {
-    name: "Daily Hackathons (WhatsApp)",
-    description: "Managed by ABC Group",
-    link: "https://chat.whatsapp.com/example"
+    name: "Placement",
+    description: "Managed by palcement",
+    link: "https://t.me/off_campus_jobs_and_internships"
   },
-  {
-    name: "Hackathon Insights (YouTube)",
-    description: "By TechGeeks",
-    link: "https://www.youtube.com/c/example"
-  }
+  
 ];
 
 const Internships = () => {
