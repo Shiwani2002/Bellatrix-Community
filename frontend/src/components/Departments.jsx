@@ -16,10 +16,7 @@ const Departments = () => {
       name: "Swati Singh",
       imageUrl: "/departments/Swati.jpeg",
     },
-    {
-      name: "Vani",
-      imageUrl: "/departments/vani.jpeg",
-    },
+    
     {
       name: "Sagun Singh",
       imageUrl: "/departments/Sagun.jpeg",
