@@ -16,22 +16,20 @@ const AllMembers = () => {
       name: "Swati Singh",
       imageUrl: "/departments/Swati.jpeg",
     },
-    {
-      name: "Vani",
-      imageUrl: "/departments/vani.jpeg",
-    },
+  
     {
       name: "Sagun Singh",
       imageUrl: "/departments/Sagun.jpeg",
     },
     {
-      name: "Harshita",
-      imageUrl: "/departments/Harshita.jpeg",
-    },
-    {
       name: "Saumya Singh",
       imageUrl: "/departments/Saumya.jpeg",
     },
+    {
+      name: "Harshita",
+      imageUrl: "/departments/Harshita.jpeg",
+    },
+    
     {
       name: "Sambhavi",
       imageUrl: "/departments/Sambhavi.jpeg",
@@ -45,11 +43,11 @@ const AllMembers = () => {
       imageUrl: "/departments/Anshika.jpeg",
     },
     {
-      name: "Dot",
+      name: "Payal",
       imageUrl: "/departments/Dot.jpeg",
     },
     {
-      name: "Kusum ",
+      name: "Kusum",
       imageUrl: "/departments/Kusum.jpeg",
     },
     {
