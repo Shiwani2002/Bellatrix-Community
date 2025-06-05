@@ -3,29 +3,29 @@ import "./OpportunityPage.css"; // Common styling for all pages
 
 const resources = [
   {
-    name: "Hackathon Hub (Telegram)",
-    description: "Created by XYZ Community . yes we knor sbjdbs sdbhbd bc cdugbc dchdu dcus sgduy dbcushui",
-    link: "https://t.me/example"
+    name: "Arsh Goyal (Telegram)",
+    description: "Managed by Arsh Goyal",
+    link: "https://t.me/goyalarsh"
   },
   {
-    name: "Daily Hackathons (WhatsApp)",
-    description: "Managed by ABC Group",
-    link: "https://chat.whatsapp.com/example"
+    name: "Krishan Kumar (Telegram)",
+    description: "Managed by Krishan Kumar",
+    link: "https://t.me/jobs_and_internships_updates"
   },
   {
-    name: "Hackathon Insights (YouTube)",
-    description: "By TechGeeks",
-    link: "https://www.youtube.com/c/example"
+    name: "Kushal Vijay (Telegram)",
+    description: "Managed by Kushal Vijay",
+    link: "https://t.me/vijaykushal"
   },
   {
-    name: "Daily Hackathons (WhatsApp)",
-    description: "Managed by ABC Group",
-    link: "https://chat.whatsapp.com/example"
+    name: "Akanksha Buchke's (Telegram)",
+    description: "Managed by Akanksha Buchke's",
+    link: "https://t.me/akankshaBuchkeFreshersJobs"
   },
   {
-    name: "Hackathon Insights (YouTube)",
-    description: "By TechGeeks",
-    link: "https://www.youtube.com/c/example"
+    name: "Sanika (Telegram)",
+    description: "Managed by Sanika",
+    link: "https://t.me/get_job_with_sanika"
   }
 ];
 
